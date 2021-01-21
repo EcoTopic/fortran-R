@@ -6,8 +6,10 @@ link to [R](R)
 
 link to [fortran](chapter1)
 
-Or susing html:  <a href="https://ecotopic.github.io/fortran/chapter1/index.html">New Page</a> 
+Or using html:  <a href="https://ecotopic.github.io/fortran/chapter1/index.html">New Page</a> 
 
-some code: `IMPLICIT NONE`
+some code: 
+```IMPLICIT NONE
+```
 
 
