@@ -21,6 +21,9 @@ or
 [dual y axis](https://www.r-graph-gallery.com/line-chart-dual-Y-axis-ggplot2.html)  
 
 ***  
+Tidyverse filter NA:
+df %>% filter(!is.na(col1))
+
 
 
 
